@@ -1,14 +1,21 @@
-wofi
-waybar
-nwg-look
-nm-connection-editor
-blueman-manager
-pinta 
-kitty
-thunar
-hyprshot
-cliphist
-wofimoji
-pavucontrol
+# CLEANBOX
+I only provided the dotfiles to achieve a similar look , please configure to your needs.
+do not download the entire repo and use it as ur hyprland dotfiles , it might not work since i didnt include everything here.
 
-you can use nwg-look to set the gruvbox theme
+please dont break you system.
+
+required stuff to make it work
+-wofi (app launcher)
+-waybar (top bar)
+-nwg-look (gtk theming)
+-nm-connection-editor (used to open wifi menu when clicking network on waybar)
+-blueman-manager (same as wifi but for bluetooth)
+-pinta (screenshot editing app)
+-kitty (terminal)
+-thunar (file manager)
+-hyprshot (screen shot tool)
+-cliphist (clipboard manager)
+-wofimoji (emoji manager)
+-pavucontrol (used to control pulseaudio)
+
+you can use nwg-look to set the gruvbox theme downloaded from here https://www.pling.com/p/1681313/
