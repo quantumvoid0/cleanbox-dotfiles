@@ -2,7 +2,9 @@
 I only provided the dotfiles to achieve a similar look , please configure to your needs.
 do not download the entire repo and use it as ur hyprland dotfiles , it might not work since i didnt include everything here.
 
-please dont break you system.
+please dont break you system. if anything isnt working feel free to open a issue 
+
+https://www.reddit.com/r/unixporn/comments/1i69zs6/hyprland_clean_arch_and_hyprland_setup/
 
 required stuff to make it work
 -wofi (app launcher)
